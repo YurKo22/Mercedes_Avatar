@@ -1,0 +1,42 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+body {
+  background: #070a1b;
+  font-family: "Roboto Condensed";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 120%;
+  color: #FFFFFF;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.header {
+}
+.container {
+}
+.header__top {
+}
+.header__nav {
+}
+.header__nav-img {
+}
+.logo {
+}
+.logo__img {
+}
+.list {
+}
+.list__item {
+}
+.list__link {
+}
+.list__img {
+}
